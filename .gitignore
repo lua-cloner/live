@@ -39,3 +39,13 @@ luac.out
 *.x86_64
 *.hex
 
+# live-build folders
+chroot/*
+cache/*
+chroot.headers
+chroot.packages.install
+chroot.packages.live
+binary.*
+binary/*
+.build/*
+.lock
